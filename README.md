@@ -24,3 +24,7 @@ git clone https://github.com/rinodung/wp-question.git wp-question
 * Import sample data in *wp-sample* directory into your mysql server
 
 * Copy *wp-config-sample.php* to *wp-config*, change configuration value depend on your server.
+
+
+**Account**
+* Admin: admin/123456
