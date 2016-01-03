@@ -1,0 +1,3 @@
+[submodule "includes/aecore"]
+	path = includes/aecore
+	url = https://github.com/YoungWorldTechnology/appengine.git

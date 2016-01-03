@@ -1,0 +1,5174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: engine\n"
+"POT-Creation-Date: 2015-11-30 09:48+0700\n"
+"PO-Revision-Date: 2015-11-30 09:48+0700\n"
+"Last-Translator: \n"
+"Language-Team: ET <support@enginethemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-SearchPath-0: D:\\mywork\\YW\\Release\\QAE\\qaengine\n"
+"X-Poedit-SearchPathExcluded-0: ../../xampp/htdocs/wp/wp-content/themes/"
+"qaengine/includes/aecore/assets/js\n"
+"X-Poedit-SearchPathExcluded-1: ../../xampp/htdocs/wp/wp-content/themes/"
+"qaengine/js\n"
+
+#: D:\mywork\YW\Release\QAE\qaengine/404.php:16
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/404.php:15
+msgid "Ops! Lost your way?"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/404.php:19
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/404.php:18
+msgid "Sorry, but the page you were looking for is not here."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/404.php:21
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/404.php:20
+msgid "Back to home page"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/archive-question.php:20
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:356
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:265
+#: D:\mywork\YW\Release\QAE\qaengine/page-pending.php:13
+#: D:\mywork\YW\Release\QAE\qaengine/page-questions.php:16
+msgid "All Questions"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/archive-question.php:38
+#: D:\mywork\YW\Release\QAE\qaengine/page-questions.php:58
+msgid "No questions has been created yet."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:20
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:31
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:50
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/item-comment.php:14
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-answer.php:27
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-comment.php:20
+msgid "Edit"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:36
+msgid "Logout"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:51
+msgid "Contact"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:62
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/author.php:33
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-users.php:101
+#: D:\mywork\YW\Release\QAE\qaengine/page-users.php:92
+msgid "Earth"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:67
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/author.php:39
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-users.php:102
+msgid "Email is hidden."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:99
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/author.php:55
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-users.php:105
+msgid "points"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:104
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:127
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:779
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:350
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:362
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:298
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:410
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/author.php:81
+msgid "Questions"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:110
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:131
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:886
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:898
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:413
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/author.php:84
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:147
+#: D:\mywork\YW\Release\QAE\qaengine/single-answer.php:157
+msgid "Answers"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:136
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/author.php:88
+msgid "Following"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:181
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/author.php:145
+msgid "There are no questions yet."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:202
+msgid "Please check your mailbox to confirm your email address."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:203
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/author.php:169
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:86
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:82
+msgid "or"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/author.php:203
+msgid "Resend the confirmation email."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/category.php:18
+#: D:\mywork\YW\Release\QAE\qaengine/index.php:18
+#: D:\mywork\YW\Release\QAE\qaengine/page-social-connect.php:22
+#: D:\mywork\YW\Release\QAE\qaengine/page-term.php:19
+#: D:\mywork\YW\Release\QAE\qaengine/page.php:19
+#: D:\mywork\YW\Release\QAE\qaengine/search.php:18
+#: D:\mywork\YW\Release\QAE\qaengine/single.php:21
+msgid "Search at blog"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/comments.php:14
+msgid "Be the first to post a comment."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/comments.php:14
+msgid "1 Comment on this article"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/comments.php:14
+msgid "% Comments on this article"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/comments.php:18
+msgid "Comment closed!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/comments.php:27
+msgid "Reply "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/comments.php:41
+msgid "Add a comment"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/functions.php:136
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:120
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1474
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:407
+#: D:\mywork\YW\Release\QAE\qaengine/page-users.php:45
+msgid "Points"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/header.php:96
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:121
+msgid "Enter Keywords"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/header.php:117
+msgid "User Profile"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/header.php:122
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/header.php:73
+msgid "User Settings"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/header.php:128
+msgid "Log out"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/header.php:136
+msgid "Login or Register"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:230
+msgid "General"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:238
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:248
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:267
+msgid "Website Title"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:241
+msgid "Enter your website title."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:257
+msgid "Website Description"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:260
+msgid "Enter your website description"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:275
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:285
+msgid "Copyright"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:278
+msgid "This copyright information will appear in the footer."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:293
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:303
+msgid "Google Analytics Script"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:296
+msgid ""
+"Google analytics is a service offered by Google that generates detailed "
+"statistics about the visits to a website."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:311
+msgid "Email Confirmation"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:314
+msgid ""
+"Enabling this will require users to confirm their email addresses after "
+"registration."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:321
+msgid "User Confirm"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:329
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:339
+msgid "Administrator Email"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:332
+msgid "This email is used for admin purposes."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:352
+msgid "Social"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:360
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:29
+msgid "Twitter API"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:363
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:32
+msgid "Enabling this will allow users to login via Twitter."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:370
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:39
+msgid "Twitter API "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:377
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:46
+msgid "Twitter key "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:379
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:48
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:385
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:54
+msgid "Twitter secret "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:387
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:56
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:394
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:63
+msgid "Facebook API"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:397
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:66
+msgid "Enabling this will allow users to login via Facebook."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:404
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:73
+msgid "Facebook API "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:411
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:80
+msgid "Facebook key "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:413
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:82
+msgid "Facebook Application ID"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:419
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:88
+msgid "Facebook secret key "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:421
+msgid "Facebook Secret Key ID"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:428
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:97
+msgid "Google API"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:431
+msgid ""
+"Enabling this will allow users to login via Google.(<a target=\"_blank\" "
+"href=\"https://code.google.com/apis/console\">get key</a>)"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:438
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:107
+msgid "Google API "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:445
+msgid "Google client key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:447
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:116
+msgid "Client ID"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:453
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:124
+msgid "Google secret key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:455
+msgid "Secret ID"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:462
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:471
+msgid "Google Plus"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:479
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:488
+msgid "Facebook URL"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:496
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:505
+msgid "Twitter URL"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:513
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:522
+msgid "Youtube URL"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:530
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:539
+msgid "LinkedIn URL"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:553
+msgid "Content"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:561
+msgid "Filter Bad Words ( Questions / Answers )"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:564
+msgid "Each word seperate by comma (,)"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:571
+msgid "Enter Keywords Here"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:579
+msgid "Intro Text"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:582
+msgid "This text will appear in the intro page."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:589
+msgid "Intro Slide Texts"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:596
+msgid "Intro Bottom Texts"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:623
+msgid "Editor Upload Images"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:626
+msgid "Turn on / off Feature Images Upload in Editor."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:633
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1118
+msgid "Upload Images"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:641
+msgid "Login To View Content"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:644
+msgid "If you enable this option, users have to login to see content."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:651
+msgid "Login"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:659
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:669
+msgid "Pending Questions"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:662
+msgid ""
+"If you enable this option, the new posted questions have to be approved to "
+"be displayed."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:677
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:687
+msgid "Pending Answers"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:680
+msgid ""
+"If you enable this option, the new posted answers have to be approved to be "
+"displayed."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:695
+msgid "Email Notification For Followed Questions"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:698
+msgid ""
+"If you enable this option, whenever there's a new answer for the followed "
+"questions, the system will automatically send emails to the following users."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:705
+msgid "Send Mail Following"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:713
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:723
+msgid "Live Notifications"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:716
+msgid "Turn on / off live notifications feature."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:731
+msgid "Login To View Answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:734
+msgid "If you enable this option, users have to login to see answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:740
+msgid "View answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:748
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:757
+msgid "Send Email From"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:751
+msgid "This email will appear in the email's header"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:771
+msgid "Url slug"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:782
+msgid ""
+"Enter slug for your Single Question page (this slug must be unique, please "
+"re-save the permalink options after changed slug)."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:788
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:790
+msgid "Single Question page Slug"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:798
+msgid "Questions Category"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:801
+msgid ""
+"Enter slug for your Question Category archive (this slug must be unique and "
+"can not be 'category', please re-save the permalink options after changed "
+"slug)."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:807
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:809
+msgid "Questions Category Slug"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:817
+msgid "Questions Tag"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:820
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:839
+msgid ""
+"Enter slug for your Question Tag archive (this slug must be unique, please "
+"re-save the permalink options after changed slug)."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:826
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:828
+msgid "Questions Tag Slug"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:836
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1455
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:302
+msgid "Members"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:845
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:847
+msgid "Members Slug Page"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:860
+msgid "Captcha"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:868
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:878
+msgid "Google reCaptcha"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:871
+msgid ""
+"Enabling this will prevent spammers to register.<a href='https://www.google."
+"com/recaptcha/admin#list' target='_blank' rel='nofollow'>get key</a>"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:885
+msgid "Site key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:887
+msgid "reCaptcha Site Key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:893
+msgid "Secret key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:895
+msgid "reCaptcha Secret Key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:902
+msgid "Google reCaptcha for Questions"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:911
+msgid "Enable Google reCaptcha for Questions"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:942
+msgid "Branding"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:951
+msgid "Site logo"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:955
+msgid ""
+"Your logo should be in PNG, GIF or JPG format, within 150x50px and less than "
+"1500Kb."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:962
+msgid "Site Logo"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:975
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:986
+msgid "Mobile Icon"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:979
+msgid ""
+"This icon will be used as a launcher icon for iPhone and Android smartphones "
+"and also as the website favicon. The image dimensions should be 57x57px."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:999
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1010
+msgid "Intro Page Background"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1003
+msgid ""
+"This image will be used as a background image in Intro Page. The image "
+"dimensions should be 1400x700px or more and size less than 1000KB."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1028
+msgid "Mailing"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1037
+msgid "Authentication Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1046
+msgid "Mail description here"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1047
+msgid ""
+"Email templates for authentication process. You can use placeholders to "
+"include some specific content."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1048
+msgid "user's details you want to send mail"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1049
+msgid "member dashboard url "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1050
+msgid "question title, link and details"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1051
+msgid "activate link is require for user to renew their pass"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1052
+msgid " site info, admin email"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1061
+msgid "Register Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1070
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1127
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1323
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1341
+msgid "Register Mail"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1080
+msgid "Confirmation Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1089
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1108
+msgid "Confirmation Mail"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1099
+msgid "Confirmed Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1118
+msgid "Forgotpass Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1136
+msgid "Resetpass Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1145
+msgid "Resetpassword Mail"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1154
+msgid "Pending Questions Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1163
+msgid "Pending Questions Mail"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1172
+msgid "New Answer Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1181
+msgid "New Answer Mail"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1190
+msgid "Report Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1199
+msgid "Report Mail"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1208
+msgid "Best Answer Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1217
+msgid "Best Answer Mail"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1226
+msgid "Ban User Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1235
+msgid "Ban User Mail"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1244
+msgid "Inbox Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1253
+msgid "Inbox User Mail"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1262
+msgid "New Badges Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1271
+msgid "New Badges Mail"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1280
+msgid "Down Badges Mail Template"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1289
+msgid "Down Badges Mail"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1304
+msgid "Language"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1313
+msgid "Website Language"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1317
+msgid "Select the language you want to use for your website."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1331
+msgid "Translator"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1335
+msgid "Translate a language"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1355
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/item-answer.php:57
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/item-comment.php:26
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-answer.php:74
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-comment.php:36
+msgid "Update"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1364
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1373
+msgid "License Key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1402
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:46
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:69
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:78
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:87
+msgid "Overview"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1403
+msgid "OVERVIEW"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1407
+#, php-format
+msgid "%s overview"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1429
+msgid "Settings"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1430
+msgid "SETTINGS"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1434
+msgid "Manage how your Q&A Engine looks and feels"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1456
+msgid "MEMBERS"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1460
+msgid "Overview of registered members"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1483
+msgid "Positive Point"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1486
+msgid "Set up points that users can gain"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1494
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1497
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:33
+msgid "create a question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1502
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1505
+msgid "answer a question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1510
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1513
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:42
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:44
+msgid "question is voted up"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1518
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1521
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:46
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:55
+msgid "answer is voted up"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1526
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1529
+msgid "answer is marked 'accepted' "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1545
+msgid "Negative Point"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1548
+msgid "Set up points that user can lose"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1555
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1558
+msgid "your question is voted down"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1563
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1566
+msgid "your answer is voted down"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1572
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1575
+msgid "you vote down an answer or question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1598
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1607
+msgid "Privileges"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1610
+msgid "Set up point users have to achieve to have specific privileges"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1621
+msgid "Level"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1644
+msgid "User Badges"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1645
+msgid "USER BADGES"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/admin.php:1649
+msgid "Manage what your members can do."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:272
+#, php-format
+msgid "%s color has been updated"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:278
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:295
+msgid "An error has occurred!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:289
+#, php-format
+msgid "%s icon has been updated"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:370
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template-js/cat-item-form.php:28
+msgid "Add a category"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:393
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template-js/cat-item.php:14
+msgid "Add sub tax for this tax"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:436
+msgid "Move jobs to"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:446
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1126
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template-js/item-answer.php:36
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/item-answer.php:74
+msgid "Accept"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:465
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:585
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:412
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/social_auth.php:134
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:924
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:121
+msgid "There is an error occurred"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:480
+msgid ""
+"You cannot delete a parent category. You need to delete its sub-categories "
+"first."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:493
+msgid "Can't delete category"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:501
+msgid "Category name is required"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/category.php:530
+msgid "Cannot find category"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-comments.php:185
+msgid "Please wait 2 minutes after each action submission."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-comments.php:204
+msgid "Already added."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-comments.php:206
+msgid "You have already comment on this."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-languages.php:129
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-languages.php:349
+msgid "Invalid file name!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-languages.php:140
+msgid "Adding new language successfully."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-languages.php:200
+msgid ""
+"Theme functions required to create a folder wp-content/et-content. Please "
+"set chmod folder wp-content to 755."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-languages.php:361
+msgid "There was no changes in your translation."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-languages.php:434
+msgid "Translation saved! "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-languages.php:489
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-languages.php:520
+msgid "Type the translation in your language"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-languages.php:533
+msgid "Loading successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:36
+msgid "Congratulations! Your account has been verified successfully."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:58
+#, php-format
+msgid "[%s]New Private Message From %s"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:95
+msgid "Activate Link"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:101
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1626
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:119
+#, php-format
+msgid "[%s]New report message from %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:140
+#, php-format
+msgid "[%s]Your claim request has been approved."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:159
+#, php-format
+msgid "[%s]Your claim request has been rejected."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:177
+#, php-format
+msgid "[%s]New claim request from %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:206
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:447
+#, php-format
+msgid "Congratulations! You have successfully registered to %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:227
+#, php-format
+msgid "You have request a confirm email from %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:261
+#, php-format
+msgid "Your post '%s' has been approved."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:275
+#, php-format
+msgid "Your post \"%s\" has been archived"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:308
+#, php-format
+msgid "Your post '%s' has been rejected."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:331
+msgid "Have a new post on your site."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:332
+#, php-format
+msgid ""
+"<p>Hi,</p><p> Have a new post on your site. You can review it here: %s </p>"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:350
+#, php-format
+msgid "You submit a post by cash on '%s'"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:352
+#, php-format
+msgid "You purchase successfully package '%s' by cash on '%s'"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:371
+msgid "Thank you for your payment!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:559
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:618
+msgid "Author's Posts"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-mailing.php:567
+msgid "Confirm link"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-orders.php:15
+msgid "Post ad"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:53
+msgid "3 Months Overview"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:60
+msgid "2 weeks Overview"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:67
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:76
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:85
+msgid "Signup"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:99
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:107
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:114
+#, php-format
+msgid "Revenue(%s)"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:101
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:109
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-overview.php:116
+msgid "Revenue"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-pack.php:192
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:152
+msgid "content here"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-pack.php:223
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:177
+msgid "Sync success."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-pack.php:276
+msgid "Payment plans have been sorted"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-package.php:29
+#, php-format
+msgid "%s for %d days"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-package.php:79
+#, php-format
+msgid "(%s)%s for %d days"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-package.php:81
+#, php-format
+msgid "%s(%s) for %d days"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-package.php:320
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:172
+msgid ""
+"You have reached the maximum number of Free posts. Please select another "
+"plan."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:119
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:143
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-contact.php:17
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-report.php:17
+msgid "Loading..."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:120
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:144
+msgid "Loading"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:121
+msgid "Categories' level is limited to 3"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:130
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:153
+msgid "Image Files"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:154
+msgid "Administration"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:155
+msgid "You are an admin. Here you administrate."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:310
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:311
+msgid "Engine Settings"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:338
+msgid "You do not have permission to change option."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:378
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:215
+msgid "Update option successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:420
+msgid "You must login to upload image."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:426
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:949
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:930
+msgid "Missing image ID"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:432
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:944
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:944
+msgid "Security error!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:468
+msgid "Branding image has been uploaded successfully"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:473
+msgid "Error when updating settings."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:479
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:956
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:993
+msgid "Uploaded file not found"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-page.php:528
+msgid "Site Dashboard"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-payments.php:242
+msgid "Post author information is incorrect!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-payments.php:293
+msgid "There is no payment plan."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-payments.php:364
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:56
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:60
+msgid "Invalid payment gateway"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-post.php:114
+msgid "REJECTED"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-post.php:115
+msgid "ARCHIVED"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-post.php:116
+msgid "PENDING"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-post.php:117
+msgid "DRAFT"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-post.php:118
+msgid "ACTIVE"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-post.php:119
+msgid "TRASHED"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-post.php:280
+msgid "The ID already existed!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-post.php:285
+msgid "You must login to submit listing."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-post.php:474
+msgid "Post not found!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-post.php:479
+msgid "You can not edit other posts!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-post.php:596
+msgid "You do not have permission to delete post."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-post.php:654
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:935
+msgid "Invalid method"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-post.php:981
+msgid "Successs"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:87
+msgid "Get user data successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:101
+msgid "Input invalid"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:110
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/user-item.php:70
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1377
+#, php-format
+msgid "Join on %s"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:135
+#, php-format
+msgid "Logged in as <span class=\"name\">%s<span>"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:302
+msgid "Username only lowercase letters (a-z) and numbers are allowed."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:305
+msgid "Email field is invalid."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:308
+msgid "Password field is required."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:311
+msgid "Repeat Passwords mismatch."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:323
+msgid "You can't create an administrator account."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:365
+msgid "You have registered successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:365
+msgid ""
+"You have registered successfully. Please check your mailbox to activate your "
+"account."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:391
+msgid "Permission Denied!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:402
+msgid "Old password does not match!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:406
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:672
+msgid "Retype password is not equal."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:418
+msgid "This email is already used. Please enter a new email."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:471
+msgid "Your profile has been saved successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:474
+msgid "Your password has been changed successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:479
+msgid "User has been banned!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:482
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:486
+msgid "User's data update successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:516
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:415
+#, php-format
+msgid "You have been banned from %s"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:617
+msgid "The login information you entered were incorrect. Please try again!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:650
+msgid "You have signed in successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:667
+msgid "You cannot change other user password"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:699
+msgid "ERROR: Enter username or email address."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:704
+msgid "ERROR: There is no user registered with that email address."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:715
+msgid "ERROR: Invalid username or email address."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:726
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1594
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:748
+msgid ""
+"We have sent an reset password mail to your mailbox. Please check your mail."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:763
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:769
+msgid "Invalid Activation Key."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:765
+msgid "Invalid User Name"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:786
+msgid "Username is empty."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:787
+msgid "Invalid Activation Key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:788
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1092
+msgid "Please enter your new password"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:805
+msgid ""
+"Your password have updated successfull. You can login with your new password "
+"now."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:825
+msgid "Your message has been sent successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:1046
+msgid "Get users successfull"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:1051
+msgid "No user found by your query"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:1081
+msgid "New confirm email already send to your email account."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:1089
+msgid "An unknown error has occurred. Please try again later."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-users.php:1096
+msgid "Please wait 5 minutes to resend an activation code!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:39
+#, php-format
+msgid ""
+"You have just installed DirectoryEngine theme, we recommend you follow "
+"through our <a href='%s'>setup wizard</a> to set up the basic configuration "
+"for your website! <a href='%s'>Close this message</a>"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:61
+msgid "Import Data Successfully."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:81
+msgid "Delete Data Successfully."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:97
+msgid "Insert sample data"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:98
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:127
+msgid "Delete sample data"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:99
+msgid "Insert sample data false"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:100
+msgid "Delete sample data false"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:101
+msgid ""
+"It would take up to a few minutes for your images to be uploaded to the "
+"server. Please don't close or reload this page."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:116
+msgid "SAMPLE DATA"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:118
+msgid ""
+"The sample data include some items from the list below: places, comments, "
+"etc."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:124
+msgid "Install sample data"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:135
+msgid "Places"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:135
+msgid "Add new place types or modify the sample ones to suit your site style."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:138
+msgid "Place Categories"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:138
+msgid ""
+"Add new categories or modify the sample data to match your directory "
+"business."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:141
+msgid "Place Locations"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:141
+msgid ""
+"Add new locations or modify the sample data to match your directory business."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:144
+msgid "Pages"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:144
+msgid ""
+"Modify the sample \"About us, Contact us, ...\" pages or add your extra "
+"pages when needed."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:147
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/user-item.php:65
+msgid "Posts"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:147
+msgid ""
+"A couple of news & event posts have been added for your review. You can "
+"delete it or add your own posts here."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:155
+msgid "MORE SETTINGS"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:156
+msgid "Enhance your site by customizing these other features"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:162
+msgid "General Settings"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:162
+msgid ""
+"Modify your site information, social links, analytics script, or add a "
+"language, etc."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:166
+msgid "Front Page"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:166
+msgid ""
+"Rearrange content elements or add more information in your front page to "
+"suit your needs."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:170
+msgid "Menus"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:170
+msgid "Edit all available menus in your site here."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:174
+msgid "Sidebars & Widgets"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/class-ae-wizard.php:174
+msgid ""
+"Add or remove widgets in sidebars throughout the site to best suit your need."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-payments.php:36
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:47
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/order-item.php:15
+msgid "Cash"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-payments.php:37
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/order-item.php:16
+msgid "Paypal"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-payments.php:38
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/order-item.php:17
+msgid "2Checkout"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-payments.php:48
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-users.php:48
+msgid "All"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-payments.php:57
+msgid "Search post..."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-payments.php:66
+msgid "All Orders"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-payments.php:78
+msgid "There are no payments yet."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-payments.php:88
+msgid "More Payments"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-payments.php:172
+msgid "No order found by your query."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-payments.php:211
+msgid "Update order successfull."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-users.php:55
+msgid "Search users..."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-users.php:63
+msgid "All Users"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-users.php:78
+msgid "More Users"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-users.php:91
+msgid "Ban user"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-users.php:96
+msgid "Ban for"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-users.php:106
+msgid "Reason"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-users.php:111
+msgid "Close"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-users.php:112
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:69
+msgid "Submit"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-users.php:147
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/user-item.php:36
+#, php-format
+msgid "Banned until %s"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-users.php:152
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/user-item.php:42
+msgid "Unban this user"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/container-users.php:154
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/user-item.php:46
+msgid "Ban this user"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-image.php:51
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-upload-images.php:21
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-upload-images.php:22
+msgid "Browse"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-image.php:55
+msgid "Remove"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-image.php:85
+msgid "Removed successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-image.php:93
+msgid "Removed failed!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-language-list.php:68
+msgid "Add a new language"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-language-list.php:70
+msgid "Enter language name"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-language-list.php:79
+msgid "Language name"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-language-list.php:80
+msgid "Enter the language's name"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-language-list.php:81
+msgid "Add language"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-language-list.php:82
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:972
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1123
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/author.php:98
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:70
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:145
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:234
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template-js/item-answer.php:68
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/item-answer.php:60
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/item-answer.php:117
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/item-comment.php:29
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-answer.php:78
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-comment.php:39
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-upload-images.php:48
+msgid "Cancel"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-map.php:39
+msgid "Enter map address"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-switch.php:37
+msgid "Enable"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-switch.php:38
+msgid "Disable"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-translate.php:48
+msgid "Choose a Language"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-translate.php:56
+msgid "Save"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/field-translate.php:60
+msgid ""
+"You should save your translation after every 20 strings to make sure they "
+"won't lost "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/fields/list.php:83
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:127
+msgid "bad"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:128
+msgid "poor"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:129
+msgid "nice"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:130
+msgid "good"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:131
+msgid "gorgeous"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:165
+msgid "Are you sure to archive this?"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:173
+msgid "Please fill all require fields."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:179
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:186
+msgid "Sunday"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:180
+msgid "Monday"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:181
+msgid "Tuesday"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:182
+msgid "Wednesday"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:183
+msgid "Thursday"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:184
+msgid "Friday"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:185
+msgid "Saturday"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:189
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:196
+msgid "Sun"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:190
+msgid "Mon"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:191
+msgid "Tue"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:192
+msgid "Wed"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:193
+msgid "Thu"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:194
+msgid "Fri"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:195
+msgid "Sat"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:199
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:206
+msgid "Su"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:200
+msgid "Mo"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:201
+msgid "Tu"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:202
+msgid "We"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:203
+msgid "Th"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:204
+msgid "Fr"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:205
+msgid "Sa"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:209
+msgid "January"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:210
+msgid "February"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:211
+msgid "March"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:212
+msgid "April"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:213
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:227
+msgid "May"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:214
+msgid "June"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:215
+msgid "July"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:216
+msgid "August"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:217
+msgid "September"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:218
+msgid "October"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:219
+msgid "November"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:220
+msgid "December"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:223
+msgid "Jan"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:224
+msgid "Feb"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:225
+msgid "Mar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:226
+msgid "Apr"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:228
+msgid "Jun"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:229
+msgid "Jul"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:230
+msgid "Aug"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:231
+msgid "Sep"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:232
+msgid "Oct"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:233
+msgid "Nov"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:234
+msgid "Dec"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:265
+msgid "This field is required."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:266
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1107
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:267
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1110
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:268
+msgid "Please enter a valid number."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:269
+msgid "Please enter only digits."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:270
+msgid "Please enter the same value again."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:271
+msgid "Please enter a valid date."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:272
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:273
+msgid "Please enter a value with a valid extension."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:275
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:276
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:277
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:278
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:279
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:280
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:304
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:203
+msgid "Your account has been confirmed successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:344
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:346
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/framework.php:413
+msgid "Not owned this image!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:340
+#, php-format
+msgid "Use commas instead of %s to separate excluded terms."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:660
+msgid "There was a problem with your upload."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:664
+msgid "Where is the file?"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:690
+#, php-format
+msgid "Not enough space to upload. %1$s KB needed."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:691
+#, php-format
+msgid "This file is too big. Files must be less than %1$s KB in size."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:693
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:756
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1183
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:725
+#, php-format
+msgid "on %s"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:758
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1185
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:727
+msgid "ago"
+msgstr ""
+
+#. translators: min=minute
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:794
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1211
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:782
+#, php-format
+msgid "%s min"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:794
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1211
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:782
+#, php-format
+msgid "%s mins"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:798
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1215
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:787
+#, php-format
+msgid "%s hour"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:798
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1215
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:787
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:803
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1220
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:793
+#, php-format
+msgid "%s day"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:803
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1220
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:793
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:808
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1225
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:799
+#, php-format
+msgid "%s week"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:808
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1225
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:799
+#, php-format
+msgid "%s weeks"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:813
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1230
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:805
+#, php-format
+msgid "%s month"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:813
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1230
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:805
+#, php-format
+msgid "%s months"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:818
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1235
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:811
+#, php-format
+msgid "%s year"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:818
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1235
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:811
+#, php-format
+msgid "%s years"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1095
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:872
+msgid "Please fill out the form below "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1350
+msgid "1 Day"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1354
+msgid "3 Days"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1358
+msgid "7 Days"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1362
+msgid "15 Days"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1366
+msgid "1 Month"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1370
+msgid "3 Months"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1374
+msgid "6 Months"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1378
+msgid "1 Year"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/functions.php:1382
+msgid "Forever"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/import/class-ae-importer.php:732
+msgid "Remote server did not respond"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/import/class-ae-importer.php:738
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/import/class-ae-importer.php:745
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/import/class-ae-importer.php:750
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/import/class-ae-importer.php:756
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/import/parsers.php:42
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/import/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/import/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/import/parsers.php:67
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/import/parsers.php:72
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/import/parsers.php:262
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/import/parsers.php:452
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-2CO.php:161
+msgid "Your 2Checkout was disabled because of invalid settings!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-authorize.php:155
+msgid "Your Authorize.Net was disabled because of invalid settings!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-authorize.php:224
+msgid "Send your payment via Authorize.Net"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-cash.php:22
+msgid ""
+"Please send your payment to account number: XXXX. Once payment has been "
+"verified, admin will approve your post or request."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-google-checkout.php:91
+msgid "Your Google Checkout was disabled because of invalid settings!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-order.php:90
+msgid "Order"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:39
+msgid "Send your payment via Paypal."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:42
+msgid "Send your payment via 2Checkout."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:48
+msgid "Send your cash payment to our bank account"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:63
+msgid "Australian Dollar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:66
+msgid "Canadian Dollar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:69
+msgid "Euro"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:72
+msgid "American Dollar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:75
+msgid "Japanese Yen"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:78
+msgid "British Pound"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:81
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:84
+msgid "Swiss Franc"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:87
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:90
+msgid "Singapore Dollar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:411
+msgid "Paypal option is disabled because of invalid setting."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/et-payment.php:619
+msgid "Please fill in a valid email!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:246
+msgid "Fraudulent"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:255
+msgid "Payment False"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:362
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:408
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:418
+msgid "MD5 False"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:363
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:419
+msgid "Md5 check sum not match!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:409
+msgid ""
+"In  Demo mode the 2Checkout order number is changed to '1' which will cause "
+"the hash to fail this. This is intentional so that merchants selling "
+"downloadable products and services can compare the hash to determine whether "
+"to provide a product to a customer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:449
+msgid "Discount"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:450
+msgid "You have use a coupon code to get discount"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:540
+msgid "Fraudulent or error!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:596
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/payment-visitor.php:597
+msgid "Invalid order ID"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/visitor-free.php:48
+msgid "Invalid Payment package"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/visitor-free.php:66
+msgid "Invalid Post ID"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/visitor-use-package.php:68
+msgid "Invalid Order or Package"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payment/visitor-use-package.php:117
+msgid "Invalid Ad ID"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payments.php:82
+#, php-format
+msgid "You purchased package <strong>%s</strong> and have %d post/s left."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/payments.php:83
+#, php-format
+msgid ""
+"You purchased package <strong>%s</strong> and have %d post/s left. Your "
+"posted post is pending until payment."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/facebook.php:10
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:26
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:514
+msgid "SIGN IN WITH FACEBOOK"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/facebook.php:11
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:515
+msgid ""
+"This seems to be your first time signing in using your Facebook account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Facebook account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/facebook.php:12
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/google.php:14
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/linkedin.php:17
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:66
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/twitter.php:17
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:312
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:516
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:655
+msgid "Please provide a username to continue"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/facebook.php:48
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/facebook.php:56
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/facebook.php:71
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/facebook.php:91
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/facebook.php:100
+msgid "Social login is invalid. Please contact administrator for help."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/facebook.php:112
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/facebook.php:120
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:562
+msgid "Please login by using your Facebook account again!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/facebook.php:191
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:895
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:635
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:759
+msgid "You have logged in successfully"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/google.php:12
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:41
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:653
+msgid "SIGN IN WITH GOOGLE+"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/google.php:13
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:654
+msgid ""
+"This seems to be your first time signing in using your Google+ account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Google+ account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/google.php:27
+msgid "Please enter your Google client id and secret key in setting page!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/google.php:55
+msgid "success"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/google.php:115
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/google.php:130
+msgid "Error to connect to Google Server!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/google.php:126
+msgid "Error to connect to Google"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/google.php:183
+msgid "Error to connect to Google Server"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/linkedin.php:15
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:48
+msgid "SIGN IN WITH LINKEDIN"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/linkedin.php:16
+msgid ""
+"This seems to be your first time signing in using your LinkedIn account.If "
+"you already have an account, please log in using the form below to link it "
+"to your LinkedIn account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/linkedin.php:31
+msgid "Please enter your Linkedin App id and secret key!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/linkedin.php:107
+msgid "Error to connect to Linkedin server!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/linkedin.php:111
+msgid "Can not get the access token from Linkedin server!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/linkedin.php:128
+msgid "Error to connect to Linkedin server2!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/linkedin.php:132
+msgid "Can not get user information from Linkedin server!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/linkedin.php:194
+msgid "Error to connect to Linkedin server"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:21
+msgid "Social API"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:90
+msgid "Facebook Secret Key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:100
+msgid "Enabling this will allow users to login via Google."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:114
+msgid "Google key "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:122
+msgid "Google Secret key "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:131
+msgid "LinkedIn API"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:134
+msgid "Enabling this will allow users to login via LinkedIn."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:141
+msgid "LinkedIn API "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:148
+msgid "Consumer Key / API Key "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:150
+msgid "LinkedIn API Key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:156
+msgid "Consumer Secret / Secret Key "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:158
+msgid "LinkedIn secret key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:170
+msgid "General setting"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:178
+msgid "Social connect page"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:181
+msgid ""
+"You can create a new page and paste shortcode [social_connect_page] here"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:188
+msgid "Social connect page url "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:190
+msgid "eg:http://enginethemes.com/directoryengine/social-connect"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:199
+msgid "Select User roles"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:202
+msgid "Select the user roles."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:210
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:213
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:214
+msgid "Select user roles"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:235
+msgid "Social login"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:236
+msgid "SOCIAL LOGIN"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/settings.php:240
+msgid "setup a way for users to login via their socile network accounts"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/social_auth.php:124
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/social_auth.php:131
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:110
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:117
+msgid "Username and password does not matched"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/social_auth.php:150
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:140
+msgid "Login information is missing"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/social_auth.php:154
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:146
+msgid "Please provide a valid email"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/social_auth.php:175
+msgid "Can not authenticate user"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/social_auth.php:177
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/social_auth.php:269
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:178
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:261
+msgid "Can't find Social ID"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/social_auth.php:216
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:220
+msgid ""
+"This email is already existed. If you are the owner, please enter the right "
+"password"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/social_auth.php:261
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:252
+msgid "Username is existed, please choose another one"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:29
+#, php-format
+msgid ""
+"This seems to be your first time signing in using your Facebook account. "
+"<br />If you already have an account with %s, please log in using the form "
+"below to link it to your Facebook account. Otherwise, please enter an email "
+"address and a password on the form, and a username on the next page to "
+"create an account.<br />You will only do this step ONCE. Next time, you'll "
+"get logged in right away."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:33
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/twitter.php:17
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:310
+msgid "SIGN IN WITH TWITTER"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:36
+#, php-format
+msgid ""
+"This seems to be your first time signing in using your Twitter account.<br /"
+">If you already have an account with %s, please log in using the form below "
+"to link it to your Twitter account. Otherwise, please enter an email address "
+"and a password on the form, and a username on the next page to create an "
+"account.<br > You will only do this step ONCE. Next time, you'll get logged "
+"in right away.</p>"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:44
+msgid ""
+"This seems to be your first time signing in using your Google+ account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Google+  account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+"</p>"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:51
+msgid ""
+"This seems to be your first time signing in using your Linkedin account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Linkedin  account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+"</p>"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:58
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:57
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-forgot.php:48
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:96
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:171
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-social-connect.php:55
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:146
+#: D:\mywork\YW\Release\QAE\qaengine/page-social-connect.php:42
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:58
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:57
+msgid "Email"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:59
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:110
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:191
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-social-connect.php:56
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:101
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:166
+#: D:\mywork\YW\Release\QAE\qaengine/page-social-connect.php:43
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:19
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:63
+msgid "Password"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:70
+#: D:\mywork\YW\Release\QAE\qaengine/page-social-connect.php:53
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:53
+msgid "Username"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:162
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:45
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:48
+msgid "Facebook"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:170
+msgid "Plus"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:178
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:49
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:51
+msgid "Twitter"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/template.php:186
+msgid "Linkedin"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/twitter.php:17
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:311
+msgid ""
+"This seems to be your first time signing in using your Twitter account.If "
+"you already have an account  , please log in using the form below to link it "
+"to your Twitter account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/twitter.php:93
+msgid "Conection with twitter Failed"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/social/twitter.php:99
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:380
+msgid "Error Receiving Request Token"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template-js/add-pack-form.php:7
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/add-pack-form.php:4
+#: D:\mywork\YW\Release\QAE\qaengine/includes/section-badges.php:80
+#: D:\mywork\YW\Release\QAE\qaengine/includes/section-badges.php:121
+msgid "Enter a name for your badge"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template-js/add-pack-form.php:12
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/add-pack-form.php:9
+#: D:\mywork\YW\Release\QAE\qaengine/includes/section-badges.php:85
+#: D:\mywork\YW\Release\QAE\qaengine/includes/section-badges.php:126
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-users.php:42
+msgid "Point"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template-js/add-pack-form.php:16
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/add-pack-form.php:13
+#: D:\mywork\YW\Release\QAE\qaengine/includes/section-badges.php:89
+#: D:\mywork\YW\Release\QAE\qaengine/includes/section-badges.php:130
+msgid "Color"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template.php:176
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template.php:219
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template.php:262
+msgid "Load more"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/add-pack-form.php:20
+#: D:\mywork\YW\Release\QAE\qaengine/includes/section-badges.php:96
+msgid "Add badge"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/order-item.php:24
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/item-answer.php:80
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:90
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-answer.php:17
+#: D:\mywork\YW\Release\QAE\qaengine/template/pending-answer-loop.php:65
+#: D:\mywork\YW\Release\QAE\qaengine/template/pending-question-loop.php:58
+msgid "Approve"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/order-item.php:27
+msgid "Decline"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/order-item.php:39
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:293
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:351
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-answer.php:56
+msgid "Pending"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/order-item.php:42
+msgid "Confirmed"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/order-item.php:45
+msgid "Failed"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/order-item.php:66
+msgid " by "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/order-item.php:78
+#, php-format
+msgid "This post has been deleted by %s"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/post-item.php:11
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:123
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:162
+#: D:\mywork\YW\Release\QAE\qaengine/includes/section-badges.php:60
+#, php-format
+msgid "%d points"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/template/user-item.php:66
+msgid "Comments"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/wc_integration/class-wc-integrate.php:80
+msgid "Select"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/aecore/wc_integration/payment/WC_Integrate_Visitor.php:47
+msgid "Got error, please contact site administrator"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:26
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:27
+msgid "Pack"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:28
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:12
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:352
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:888
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:575
+msgid "Add New"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:29
+msgid "Add New Pack"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:30
+msgid "Edit Pack"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:31
+msgid "New Pack"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:32
+msgid "All Packs"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:33
+msgid "View Pack"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:34
+msgid "Search Packs"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:35
+msgid "No Pack found"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:36
+msgid "NoPacks found in Trash"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:38
+msgid "Packs"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:246
+msgid "Vote up a question/answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:247
+msgid "Leave comments on other people's posts"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:248
+msgid "Vote down a question/answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:250
+msgid "Add new tags to the site"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:251
+msgid "Edit any question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:252
+msgid "Edit any answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:253
+msgid "Approve any answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/badges.php:297
+msgid "Default"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:10
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:11
+msgid "change log"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:13
+msgid "Add New log"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:14
+msgid "Edit log"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:15
+msgid "New change log"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:16
+msgid "All change logs"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:17
+msgid "View change log"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:18
+msgid "Search change logs"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:19
+msgid "No change log found"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:20
+msgid "Nochange logs found in Trash"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:22
+msgid "change logs"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:182
+#, php-format
+msgid "Your question \"%s\" was voted up, earned %d points"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:188
+#, php-format
+msgid "Your answer on question \"%s\" was voted up, earned %d points"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:216
+#, php-format
+msgid "Your question \"%s\" was voted down, earned %d points"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:222
+#, php-format
+msgid "Your answer on question \"%s\" was voted down, earned %d points"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:249
+#, php-format
+msgid "Your question \"%s\" was unvoted, return %d points"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:254
+#, php-format
+msgid "Your answer on question \"%s\" was unvoted, return %d points"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:281
+#, php-format
+msgid "Your answer on question \"%s\" was marked best answer, gain %d points"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:308
+#, php-format
+msgid "Your best answer on question \"%s\" was undo, gain %d points"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:335
+#, php-format
+msgid "You answered on question \"%s\""
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:340
+#, php-format
+msgid "Your posted a question \"%s\" "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:368
+#, php-format
+msgid "You question on question \"%s\" was edited"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:373
+#, php-format
+msgid "Your answer on question \"%s was edited\""
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:410
+msgid "This is default text."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:416
+#, php-format
+msgid "Your answer on question %s was voted up."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:418
+#, php-format
+msgid "You voted up an answer on question %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:426
+#, php-format
+msgid "Your answer on question %s was voted down."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:428
+#, php-format
+msgid "Your voted down an answer on question %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:437
+#, php-format
+msgid "Your question %s was voted up."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:439
+#, php-format
+msgid "You voted up question %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:448
+#, php-format
+msgid "Your question %s was voted down."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:450
+#, php-format
+msgid "You voted down question %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:456
+#, php-format
+msgid "You asked %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:463
+#, php-format
+msgid "Your question %s was edited."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:465
+#, php-format
+msgid "You edited question %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:472
+#, php-format
+msgid "You answered question %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:480
+#, php-format
+msgid "Your answer on question %s was edited."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:482
+#, php-format
+msgid "You edited answer on question %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:489
+#, php-format
+msgid "Your question %s was unvoted."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:491
+#, php-format
+msgid "You unvoted question %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:499
+#, php-format
+msgid "Your answer on question %s was unvoted."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:501
+#, php-format
+msgid "Your unvoted an answer on question %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:508
+#, php-format
+msgid "Your answer on question %s was marked as the accepted answer."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:510
+#, php-format
+msgid "You marked question %s was answered."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:517
+#, php-format
+msgid "Your best answer on question %s was unaccepted."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/changelog.php:519
+#, php-format
+msgid "You changed the best answer on question %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/customizer.php:25
+msgid "QA Options"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/customizer.php:28
+msgid "Allows you to customize some example settings for QAEngine."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/customizer.php:83
+msgid "Link Color"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/customizer.php:94
+msgid "Main Action Color"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/customizer.php:105
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/customizer.php:116
+msgid "Header Background Color"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/customizer.php:127
+msgid "Header Menus Background Color"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:192
+msgid "You need to verify your account to view the content."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:507
+msgid "Congratulations! Your account has been confirmed successfully."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:585
+msgid "You must log in to post question."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:588
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:698
+msgid "Post title should not contain any HTML Tag."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:593
+msgid "You don't have enough point to add a comment."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:605
+msgid "An error occur when created comment."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:610
+msgid "Comment has been created successfully."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:624
+msgid "An error occur when created answer."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:627
+msgid ""
+"Your answer has been created successfully and need to be approved by Admin "
+"before displayed!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:627
+msgid "Answer has been created successfully."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:641
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1012
+msgid "Please enter a valid captcha!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:658
+msgid ""
+"Your question has been created successfully. It'll appear right after being "
+"approved by admin."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:658
+msgid "Question has been created successfully."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:664
+msgid "An error occur when created question."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:694
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:925
+msgid "Invalid action"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:704
+msgid "You don't have enough point to vote up."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:706
+msgid "You don't have enough point to vote down."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:739
+msgid "You don't have enough point to approve answer."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:752
+msgid "Only author has right to change the best answer."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:817
+msgid "Question has been saved successfully."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:844
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:355
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:298
+msgid "New Question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:845
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:299
+msgid "There's a new post, why don't you give a look at"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:854
+msgid "You've just successfully approved a question."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:863
+msgid "You've just successfully approved an answer."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:880
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1254
+msgid "Login required"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:886
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:1062
+msgid "Error occurred"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:889
+msgid "You have started following this question."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:891
+msgid "You have stopped following this question."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:906
+msgid "Invalid post"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:913
+msgid "You have reported successfully"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:919
+msgid "Error when reported!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:960
+msgid "Image file size is too big.Size must be less than < 1MB."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:975
+msgid "The file was uploaded successfully"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:1066
+msgid "Comment deleted successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:1074
+msgid "Answer deleted successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/front.php:1080
+msgid "Question deleted successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:247
+msgid "An error occur when created sign up"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:269
+msgid "Member not found"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:666
+msgid "Your account has been deleted successfully."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:718
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:752
+msgid "Your profile has been updated!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:725
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:733
+msgid "This email is already used. Please enter another email!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:789
+msgid "Please enter all required information to reset your password."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:792
+msgid "Confirmed password does not matched"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:799
+msgid "Old password is not correct."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:803
+msgid "Your new password cannot be empty."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:814
+msgid "Your password was changed! Please login again!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:851
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:907
+msgid "Your login information was incorrect. Please try again."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:869
+#, php-format
+msgid "Your account has been banned. Reason \"%s\". Expired on \"%s\"."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:917
+msgid "You have logged out"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:937
+msgid "Missing user data"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:980
+msgid "User logo has been uploaded successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:985
+msgid "Problem occurred while updating user field"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1028
+msgid ""
+"You have registered an account successfully but are not able to join the "
+"discussions yet. Please confirm your email address first."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1028
+msgid "You are registered and logged in successfully."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1054
+msgid "<strong>ERROR</strong>: Enter username or email address."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1058
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1078
+msgid "Please check your email inbox to reset password."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1088
+msgid "This user is not found."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1090
+msgid "Invalid Key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1111
+msgid "Your password has been changed. Please log in again."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1130
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1303
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1338
+msgid "You don't have permission"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1135
+msgid "Required user ID."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1144
+msgid "User has been confirmed"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1177
+msgid "No result found"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1221
+#, php-format
+msgid "You have recieved a confirmation email from %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1231
+msgid "Successfully resend the confirmation email."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1236
+msgid "Your account has been activated."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1266
+msgid "New Private Message From "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1279
+msgid "Email sending failed."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1284
+msgid "Message was sent successfully."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1315
+msgid "User has been banned"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1351
+msgid "User has been unbanned"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1486
+msgid "This email address was not found."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1502
+msgid "Username is invalid"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1551
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1554
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1560
+msgid "Invalid key"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1580
+msgid "<strong>ERROR</strong>: Invalid username or email address."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1610
+msgid "There is a request to reset the password for the following account:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1612
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1613
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1614
+msgid "To reset your password, visit the following link:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1632
+msgid "The email could not be sent."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/members.php:1632
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:68
+msgid "Missing Author"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:98
+msgid "Thread not found!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:128
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:645
+msgid "Category is not existed!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:351
+msgid "Question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:353
+msgid "Add New Question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:354
+msgid "Edit Question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:357
+msgid "View Question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:358
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:261
+msgid "Search Questions"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:359
+msgid "No questions found"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:360
+msgid "No questions found in Trash"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:382
+msgid "Question Categories"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:383
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:392
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:43
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/archive-question.php:17
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/taxonomy.php:17
+msgid "Category"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:384
+msgid "Search Categories"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:385
+msgid "All Categories"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:386
+msgid "Parent Category"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:387
+msgid "Parent Category:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:388
+msgid "Edit Category"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:389
+msgid "Update Category"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:390
+msgid "Add New Category"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:391
+msgid "New Category Name"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:402
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:417
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-tags.php:19
+#: D:\mywork\YW\Release\QAE\qaengine/page-tags.php:16
+msgid "Tags"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:403
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:46
+msgid "Tag"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:404
+msgid "Search Tags"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:405
+msgid "Popular Tags"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:406
+msgid "All Tags"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:409
+msgid "Edit Tag"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:410
+msgid "Update Tag"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:411
+msgid "Add New Tag"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:412
+msgid "New Tag Name"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:413
+msgid "Separate tags with commas"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:414
+msgid "Add or remove tags"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:415
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:416
+msgid "No tags found."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:461
+msgid "Required Log In"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:520
+#, php-format
+msgid "You must have %d points to edit question."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:643
+msgid "Category must not empty"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:726
+msgid "Permission denied"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:887
+msgid "Answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:889
+msgid "Add New Answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:890
+msgid "Edit Answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:891
+msgid "New Answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:892
+msgid "All Answers"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:893
+msgid "View Answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:894
+msgid "Search Answers"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:895
+msgid "No answers found"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:896
+msgid "No answers found in Trash"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:982
+#, php-format
+msgid "You must have %d points to edit answer."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:1061
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:1187
+#: D:\mywork\YW\Release\QAE\qaengine/single-answer.php:131
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:178
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-answer.php:120
+#, php-format
+msgid "Comment(%d) "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/questions.php:1078
+msgid "Login Required"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/section-badges.php:46
+msgid "User Level"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/section-badges.php:74
+msgid "Are you sure you want to delete this badge?"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:176
+msgid "Can't not authenticate user"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:696
+#: D:\mywork\YW\Release\QAE\qaengine/includes/social_auth.php:702
+msgid "Please login by using your Google plus account again!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:250
+#: D:\mywork\YW\Release\QAE\qaengine/sidebar-left-tablet.php:6
+#: D:\mywork\YW\Release\QAE\qaengine/sidebar-left.php:5
+msgid "ASK A QUESTION"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:273
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:329
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:98
+#: D:\mywork\YW\Release\QAE\qaengine/page-tags.php:36
+msgid "Latest"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:278
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:333
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:103
+#: D:\mywork\YW\Release\QAE\qaengine/single-answer.php:162
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:222
+msgid "Votes"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:283
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:344
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:108
+msgid "Unanswered"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:302
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:1035
+msgid "Filter by category"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:358
+msgid "Questions Per Page: "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:476
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:28
+msgid "Select Category"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:636
+#, php-format
+msgid "%s today, %s this week, %s this month."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:831
+msgid "year"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:832
+msgid "month"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:833
+msgid "day"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:834
+msgid "hour"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:835
+msgid "minute"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:836
+msgid "second"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:950
+#, php-format
+msgid "You must have %d points to add comment."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:954
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/item-answer.php:99
+msgid "Add Comment"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:968
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1122
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:144
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:132
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template-js/item-answer.php:67
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template-js/item-answer.php:70
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/item-answer.php:119
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/item-answer.php:113
+msgid "Add comment"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:988
+#, php-format
+msgid ""
+"By posting your answer, you agree to the <a target=\"_blank\" href=\"%s"
+"\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service."
+"</a>"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/template.php:988
+#, php-format
+msgid ""
+"By posting your question, you agree to the <a target=\"_blank\" href=\"%s"
+"\">privacy policy</a> and <a target=\"_blank\" href=\"%s\">terms of service."
+"</a>"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:128
+msgid "marked"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:128
+msgid "unmarked"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:133
+#, php-format
+msgid "[%s] Your answer has been marked as the best."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:169
+#, php-format
+msgid "[%s] New pending question has been created."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:210
+#, php-format
+msgid "[New Answer] Your question %s has a new reply."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:318
+msgid "Confirm this user"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:427
+msgid "Password updated successfully!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:496
+msgid "Menu display on Header"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:497
+msgid "Menu display on Left Sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:502
+msgid "Left Sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:504
+msgid "Display widgets in left sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:507
+msgid "Right Sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:509
+msgid "Display widgets in right sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:514
+msgid "Header Sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:516
+msgid "Display widgets in header sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:521
+msgid "Blog's Left Sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:523
+msgid "Display widgets in blog's left sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:526
+msgid "Blog's Right Sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:528
+msgid "Display widgets in blog's right sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:533
+msgid "Single Question Sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:535
+msgid "Display widgets in single question sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:539
+msgid "Top Questions Listing Ads Banner Sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:541
+msgid "Display ad banners widgets in top questions listing sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:545
+msgid "Bottom Ads Banner Sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:547
+msgid "Display ad banners widgets in bottom of website"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:551
+msgid "Content Question Ad Banner Sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:553
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:559
+msgid "Display ad banners widgets in bottom questions listing sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:557
+msgid "Below Answers Listing Ad Banner Sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:573
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:585
+msgid "Reports"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:574
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:107
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template-js/item-answer.php:50
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/item-answer.php:96
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:84
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:172
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/item-answer.php:85
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-answer.php:41
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-answer.php:113
+msgid "Report"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:576
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:612
+msgid "Add New Report"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:577
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:610
+msgid "Edit Report"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:578
+msgid "New Report"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:579
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:607
+msgid "All Reports"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:580
+msgid "View Report"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:581
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:605
+msgid "Search Reports"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:582
+msgid "No Reports found"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:583
+msgid "No Reports found in Trash"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:603
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:618
+msgid "Reports taxonomy"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:604
+msgid "Report taxonomys"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:606
+msgid "Popular Reports"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:611
+msgid "Update Report"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:613
+msgid "New Report Name"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:614
+msgid "Separate Reports with commas"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:615
+msgid "Add or remove Reports"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:616
+msgid "Choose from the most used Reports"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:617
+msgid "No Reports found."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:636
+msgid "Report Information"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:746
+msgid "Admin"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:764
+msgid "There's a new report "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1105
+msgid "Please fill out all fields required."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1106
+msgid "Please enter your user name."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1108
+msgid "Please enter a valid username."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1109
+msgid "Please enter the same password as above."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1111
+msgid "You must accept the terms & privacy."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1115
+msgid "You must be logged in to perform this action."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1116
+msgid "You don't have enought points to perform this action."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1117
+msgid "Create Topic"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1119
+msgid "Insert Code"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1120
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-upload-images.php:16
+msgid "No file chosen."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1121
+msgid "Please insert at least one tag."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1124
+msgid "Sign Up"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1125
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/header.php:85
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:9
+msgid "Sign In"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1127
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/item-answer.php:70
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-answer.php:51
+msgid "Best answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1128
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-forgot.php:20
+msgid "Forgot Password"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1129
+msgid "You have made some changes which you might want to save."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1130
+msgid "You must activate your account first to create questions / answers!."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1131
+msgid "User cancelled login or did not fully authorize."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1132
+msgid "You account has been banned, you can't make this action!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1146
+msgid "Post link"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/theme.php:1158
+msgid "Unable to get post link"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/update.php:159
+msgid "Key is invalid"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/vote.php:377
+msgid "Congratulations, you have advanced to a higher level"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/vote.php:380
+msgid "You have been moved down a level"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:6
+msgid ""
+"Drag this widget to single sidebars to display a list of related questions."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:8
+msgid "QA Related Questions"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:20
+msgid "RELATED QUESTIONS"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:27
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:155
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:285
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:326
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:390
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:590
+msgid "Title:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:33
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:161
+msgid "Number of questions to display:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:39
+msgid "Questions base on:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:105
+msgid "There are no related questions!"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:125
+msgid "This widget should be placed in Single Question Sidebar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:137
+msgid "Drag this widget to any sidebars to display a list of hot questions."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:139
+msgid "QA Latest Questions / Hot Questions"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:151
+msgid "HOT QUESTIONS"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:167
+msgid "Latest questions (sort by date)"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:173
+msgid "Date range:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:177
+msgid "All days"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:180
+msgid "Last 7 days"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:183
+msgid "Last 30 days"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:272
+msgid "Drag this widget to sidebar to display the statistic of website."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:274
+msgid "QA Statistics"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:282
+msgid "STATISTICS WIDGET"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:313
+msgid "Drag this widget to sidebar to display the list of tags."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:315
+msgid "QA Tags"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:323
+msgid "Tags Widget"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:330
+msgid "Number of tag to display:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:355
+msgid "See more tags"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:366
+msgid "Drag this widget to sidebar to display the list of top users."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:372
+msgid "QA Top Users"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:383
+msgid "TOP USERS"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:394
+msgid "Number of users to display:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:399
+msgid "Latest users (sort by date)"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:404
+msgid "Order By:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:539
+#, php-format
+msgid "%d Question(s)"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:546
+#, php-format
+msgid "%d Answer(s)"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:551
+#, php-format
+msgid "%d Point(s)"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:576
+msgid "Drag this widget to sidebar to display the list of user's activities."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:578
+msgid "QA Recent Activities"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/includes/widget.php:594
+msgid "Number of activities to display:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/index.php:15
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/index.php:18
+#: D:\mywork\YW\Release\QAE\qaengine/search.php:15
+msgid "Blog"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/archive-question.php:23
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-questions.php:23
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-search.php:24
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/taxonomy.php:23
+msgid "Select Categories"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/author.php:99
+msgid "Enter keyword"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/author.php:168
+msgid "Please check your mail box to confirm your email address."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/author.php:169
+msgid "Resend confirm email."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/category.php:23
+msgid "Find a blog"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/category.php:43
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/index.php:43
+msgid "No posts yet."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/footer.php:3
+#: D:\mywork\YW\Release\QAE\qaengine/sidebar-left-tablet.php:37
+#: D:\mywork\YW\Release\QAE\qaengine/sidebar-left.php:38
+msgid "Terms & Privacy"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:17
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-question.php:32
+#, php-format
+msgid ""
+"You must have %d points to add tag. Current, you have to select existing "
+"tags."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:22
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-question.php:20
+msgid "Your Question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:43
+msgid "Insert Image"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:45
+msgid "Size must be less than < 1MB."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:49
+msgid "Your Description"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:52
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-question.php:27
+msgid "Tag(max 5 tags)"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:67
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-question.php:12
+msgid "Ask a Question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/functions.php:143
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template-js/item-answer.php:66
+msgid "Type your comment"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/header.php:4
+msgid "MOBILE VERSION"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/header.php:76
+msgid "Sign Out"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/header.php:108
+msgid "List Categories"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:18
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:69
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:36
+msgid "Change Profile"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:21
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:91
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:35
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:78
+msgid "Change Password"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:37
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:42
+msgid "Full name"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:41
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:45
+msgid "Location"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:53
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:54
+msgid "Google+"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:58
+msgid "admin@local.com"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:62
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:59
+msgid "Make this email public."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:65
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:63
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-upload-images.php:40
+msgid "Description"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:79
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:72
+msgid "Old Password"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:83
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:74
+msgid "New Password"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-author-setting.php:87
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:76
+msgid "Repeat New Password"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:18
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:16
+msgid "Badges"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:37
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:21
+msgid "Points System"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:38
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:22
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:76
+msgid "You earn reputation when people vote on your posts"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:50
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:66
+msgid "answer is accepted"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:70
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:75
+msgid "Badges System"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:71
+msgid ""
+"At the highest levels, you'll have access to special moderation tools. "
+"You'll be able to work alongside our community moderators to keep the site "
+"focused and helpful."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:85
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:96
+msgid "points require"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:88
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:100
+msgid "You can:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:91
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:103
+msgid "Edit other people's questions"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:95
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:120
+msgid "Edit other people's answers"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:102
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:113
+#, php-format
+msgid "Vote down (costs %s point on answers and questions)"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:107
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:130
+msgid "Leave comments"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-badges.php:111
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:124
+msgid "Vote up"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-categories.php:18
+#: D:\mywork\YW\Release\QAE\qaengine/page-categories.php:13
+msgid "Categories"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-categories.php:23
+msgid "Find a categories"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-categories.php:39
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-tags.php:40
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-users.php:37
+#: D:\mywork\YW\Release\QAE\qaengine/page-categories.php:26
+#: D:\mywork\YW\Release\QAE\qaengine/page-tags.php:30
+#: D:\mywork\YW\Release\QAE\qaengine/page-users.php:42
+msgid "Name"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-categories.php:44
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-tags.php:45
+#: D:\mywork\YW\Release\QAE\qaengine/page-categories.php:29
+#: D:\mywork\YW\Release\QAE\qaengine/page-tags.php:33
+msgid "Popular"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:86
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:132
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:82
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:130
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:25
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:79
+msgid "Sign in"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:87
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:217
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:82
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:194
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:28
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:78
+msgid "Sign up"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:103
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:114
+msgid "Remember me"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:116
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:121
+msgid "Forgot password ?"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:179
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:154
+msgid "User Name"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:199
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:174
+msgid "Repeat Password"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:211
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:183
+msgid ""
+"By clicking \"Sign Up\" you indicate that you have read and agree to the"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-intro.php:211
+#: D:\mywork\YW\Release\QAE\qaengine/page-intro.php:183
+msgid "Terms of Service."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-questions.php:17
+msgid "All Question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-reset-pass.php:20
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-forgotpass.php:6
+msgid "Reset Password"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-reset-pass.php:49
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-forgotpass.php:13
+msgid "Enter your new password here"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-reset-pass.php:52
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-forgotpass.php:16
+msgid "Reset"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-search.php:18
+msgid "Search Question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-search.php:69
+#: D:\mywork\YW\Release\QAE\qaengine/page-search.php:44
+#: D:\mywork\YW\Release\QAE\qaengine/search.php:37
+msgid "No results for keyword:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-tags.php:24
+msgid "Find a tag"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-users.php:16
+#: D:\mywork\YW\Release\QAE\qaengine/page-users.php:29
+msgid "Users"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/page-users.php:21
+msgid "Find a user"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:13
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/answer-loop.php:7
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/item-answer.php:7
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/question-loop.php:67
+#: D:\mywork\YW\Release\QAE\qaengine/single-answer.php:14
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:156
+#: D:\mywork\YW\Release\QAE\qaengine/template/answer-loop.php:7
+#: D:\mywork\YW\Release\QAE\qaengine/template/pending-answer-loop.php:7
+#: D:\mywork\YW\Release\QAE\qaengine/template/pending-question-loop.php:5
+#: D:\mywork\YW\Release\QAE\qaengine/template/question-loop.php:61
+msgid "No Category"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:73
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/question-loop.php:51
+#, php-format
+msgid "Asked by %s %s in"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:92
+#: D:\mywork\YW\Release\QAE\qaengine/single-answer.php:82
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:101
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/item-answer.php:73
+msgid "Answered"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:103
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template-js/item-answer.php:46
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/item-answer.php:92
+#: D:\mywork\YW\Release\QAE\qaengine/single-answer.php:125
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:167
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/item-answer.php:80
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-answer.php:108
+msgid "Share"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:111
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template-js/item-answer.php:53
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/item-answer.php:99
+msgid "Comment"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:151
+msgid "Vote"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:152
+#: D:\mywork\YW\Release\QAE\qaengine/single-answer.php:165
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:228
+msgid "Oldest"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:200
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:271
+msgid "Login or Register to view and post answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:228
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:233
+#: D:\mywork\YW\Release\QAE\qaengine/single-answer.php:189
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:255
+msgid "Post answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/single-question.php:232
+msgid "Type your answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/taxonomy.php:56
+msgid "There are no questions in this category!."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template-js/item-answer.php:21
+msgid "Answered by "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/answer-loop.php:52
+#: D:\mywork\YW\Release\QAE\qaengine/single-answer.php:115
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:136
+#: D:\mywork\YW\Release\QAE\qaengine/template/answer-loop.php:24
+#: D:\mywork\YW\Release\QAE\qaengine/template/pending-answer-loop.php:24
+#: D:\mywork\YW\Release\QAE\qaengine/template/pending-question-loop.php:40
+#: D:\mywork\YW\Release\QAE\qaengine/template/question-loop.php:41
+#, php-format
+msgid "Asked %s in"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/answer-loop.php:61
+msgid "Accepted"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/categories-orderby_name.php:55
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/categories-orderby_name.php:65
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/tags-orderby_name.php:54
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/tags-orderby_name.php:64
+#, php-format
+msgid "Touch here to see more %s tags"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/item-answer.php:43
+msgid "Pending Answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/item-answer.php:52
+#, php-format
+msgid "Answered by %s %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/mobile/template/post-loop.php:37
+#: D:\mywork\YW\Release\QAE\qaengine/single.php:75
+#: D:\mywork\YW\Release\QAE\qaengine/template/post-loop.php:51
+msgid "READ MORE"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/page-badges.php:107
+msgid "Vote to close, reopen, or migrate questions"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/page-categories.php:17
+msgid "Find Categories"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/page-search.php:16
+#, php-format
+msgid "Search Questions: <em>%s</em>"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/page-tags.php:20
+msgid "Find Tags"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/page-term.php:16
+#: D:\mywork\YW\Release\QAE\qaengine/page.php:16
+msgid "Page"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/page-users.php:33
+msgid "Find Users"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/page-users.php:96
+#, php-format
+msgid "%d Points"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/page-users.php:103
+msgid "No users found."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/single-answer.php:48
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:33
+msgid "Home"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/single-answer.php:181
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:247
+msgid "Your Answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:57
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/item-comment.php:15
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-answer.php:34
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-comment.php:23
+#: D:\mywork\YW\Release\QAE\qaengine/template/pending-answer-loop.php:74
+#: D:\mywork\YW\Release\QAE\qaengine/template/pending-question-loop.php:67
+msgid "Delete"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:69
+msgid "Follow"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:75
+msgid "Unfollow"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:216
+msgid "Answer(s)"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/single-question.php:225
+msgid "Active"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/single.php:59
+#: D:\mywork\YW\Release\QAE\qaengine/single.php:66
+#: D:\mywork\YW\Release\QAE\qaengine/template/post-loop.php:39
+msgid "Pages:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/taxonomy.php:21
+#, php-format
+msgid "Question Cagtegory: %s"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/search-preview.php:15
+#, php-format
+msgid "View all %s results"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/search-preview.php:17
+msgid "View all results"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template-js/search-preview.php:19
+msgid "No results found"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/answer-loop.php:49
+#: D:\mywork\YW\Release\QAE\qaengine/template/pending-answer-loop.php:49
+msgid "This answer accepted by"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/answer-loop.php:51
+#: D:\mywork\YW\Release\QAE\qaengine/template/pending-answer-loop.php:51
+#, php-format
+msgid "Earned %d points."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/answer-loop.php:62
+#: D:\mywork\YW\Release\QAE\qaengine/template/question-loop.php:76
+msgid "views"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/answer-loop.php:68
+#: D:\mywork\YW\Release\QAE\qaengine/template/question-loop.php:82
+msgid "answers"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/answer-loop.php:74
+#: D:\mywork\YW\Release\QAE\qaengine/template/question-loop.php:88
+msgid "votes"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-answer.php:98
+#, php-format
+msgid "Answered %s."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-vote.php:26
+#, php-format
+msgid "You must have %d points to vote up."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-vote.php:31
+#, php-format
+msgid "You must have %d points to vote down."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-vote.php:40
+msgid "This is useful."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-vote.php:54
+msgid "This is not useful"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/item-vote.php:82
+msgid "Mark as best answer"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:14
+msgid "Username or Email"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:23
+msgid "Forgot password"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:68
+msgid "Retype Password"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:85
+#, php-format
+msgid ""
+"By clicking \"Sign up\" you indicate that you have read and agree to the <a "
+"target=\"_blank\" href=\"%s\">privacy policy</a> and <a target=\"_blank\" "
+"href=\"%s\">terms of service.</a>"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:92
+msgid "Enter your email here"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-authentication.php:94
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-contact.php:17
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-report.php:17
+msgid "Send"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-contact.php:9
+msgid "Contact "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-contact.php:15
+msgid "Your message:"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-contact.php:16
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-report.php:16
+msgid "Got something to say? Type your message here."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:22
+msgid "Edit Profile"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:33
+msgid "Upload New Avatar"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-profile.php:68
+msgid "Update Profile"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-question.php:28
+msgid "Press enter to add new tag"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-question.php:44
+msgid "SUBMIT QUESTION"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-report.php:11
+msgid "Report "
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-report.php:15
+msgid "Your message"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-upload-images.php:6
+msgid "Insert Images"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-upload-images.php:10
+msgid "Upload an image"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-upload-images.php:16
+msgid "Please log in to use this function."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-upload-images.php:18
+msgid "Admin has disabled this function."
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-upload-images.php:28
+msgid "Add an image via URL"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-upload-images.php:34
+msgid "Alt text"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/modal-upload-images.php:46
+msgid "Insert"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/question-loop.php:6
+msgid "Pending Question"
+msgstr ""
+
+#: D:\mywork\YW\Release\QAE\qaengine/template/tags-orderby_name.php:38
+msgid "Digit"
+msgstr ""
